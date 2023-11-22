@@ -1,0 +1,14 @@
+
+section {
+    margin-top: 5em;
+}
+
+.social-media i {
+    color: rgb(9, 9, 9);
+    cursor: pointer;
+}
+
+.social-media i:hover {
+    color: aqua;
+    cursor: pointer;
+}
