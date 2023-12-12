@@ -12,3 +12,9 @@ section {
     color: aqua;
     cursor: pointer;
 }
+
+.tech{
+    font-size: 2em;
+    text-align: center;
+    color: blue;
+}
